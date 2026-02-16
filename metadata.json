@@ -1,0 +1,8 @@
+
+{
+  "name": "Uday Interior Works | Bangalore's Premier Carpentry Studio",
+  "description": "Premium carpentry, modular kitchens, and heritage restoration in Bangalore. Powered by AI design intelligence and artisan mastery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
